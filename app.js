@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
       text: "Sore Hari saat itu, FARINAAA Bertemu di ketidaksengajaan yang Beruntung. Perempatan Ceger menjadi ikonik sekaligus Saksi Bisu tentang tercipta nya Kisah Cinta FARINAAA. Banyak Hal berupa Ujian Maupun Kebahagiaan yang di lalui oleh FARINAAA selama itu, Sampai dimana FARINAAA dapat mewujudkan Hububngan yang Dewasa, Mencintai, Memhami, Mendukung, Bertahan, Memaafkan, Dan Memperjuangkan.",
     },
     {
-      date: "2024-4-9",
+      date: "2024-04-09", // 🌸 Diperbaiki menjadi 04-09 agar terbaca sempurna di semua browser
       title: "Momen Spesial",
       text: "Banyak Momen Spesial yang FARINAAA Telah Lewati selama ini. Dari mulai Canda, Tawa, Sedih, Marah, Dan masih banyak sekali Momen Spesial lain nya yang Telah FARINAAA lewati sejauh ini. FARINAAA Selalu mampu untuk berhatan melewati seluruh rintangan dan tantangan yang terjadi selama ini, Tentu nya dengan Tulus, Cinta, Dan kasih Sayang Yang begitu besar dari Fauzan & Sabrina yang sellau berpegang teguh pada Prinsip FARINAAA Yaitu Akan selalu bersama hingga Akhir Hidup Kita Berdua.",
     },
